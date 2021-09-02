@@ -1,5 +1,5 @@
 # Merging conflicts test - version 1
-Here is the first line.
+Here is the first line with some changes for Milan.
 The second line follows here, and is modified in version 1.
 Third line is here.
 Maybe a fourth line is here.
