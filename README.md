@@ -4,6 +4,6 @@ The second line follows here, and is modified in version 2.
 Third line is here.
 Maybe a fourth line is here.
 We are getting to the fifth line.
-Sixth line is exactly here. But in version 2, we have  modified it as well.
+Sixth line is exactly here. But in version 2, we have  modified it again.
 And the last line is the seventh one.
  
