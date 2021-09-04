@@ -1,4 +1,4 @@
-# Merging conflicts test - version 2
+# Merging conflicts test - version 1
 Here is the first line.
 The second line follows here, and is modified in version 2.
 Third line is here.
