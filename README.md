@@ -1,6 +1,6 @@
 # Merging conflicts test - version 1
 Here is the first line.
-The second line follows here, and is modified in version 2.
+The second line follows here, and is modified back in version 1.
 Third line is here.
 Maybe a fourth line is here.
 We are getting to the fifth line.
