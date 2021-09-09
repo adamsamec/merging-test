@@ -2,7 +2,7 @@ import * as React from 'react';
 import { Header, Button, Dialog, Breadcrumb, Text, Table, List, Accordion } from '@fluentui/react-northstar';
 import { CloseIcon } from '@fluentui/react-icons-northstar';
 
-const dialogCSS: React.CSSProperties = {
+const version1change: React.CSSProperties = {
   height: '90vh',
 };
 
