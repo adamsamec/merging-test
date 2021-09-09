@@ -206,7 +206,7 @@ export const ContextualHelpDialog1: React.FunctionComponent<ContextualHelpDialog
 
   return (
     <Dialog
-      style={dialogCSS}
+      style={version1change}
       trapFocus={{ firstFocusableSelector: '[aria-expanded="true"][data-aa-class="AccordionTitle__content"]' }}
       open={dialogOpened}
       onOpen={() => {
